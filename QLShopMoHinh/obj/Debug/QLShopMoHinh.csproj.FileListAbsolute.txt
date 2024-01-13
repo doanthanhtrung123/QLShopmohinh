@@ -1,0 +1,79 @@
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmMain.resources
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.Properties.Resources.resources
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.exe.licenses
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\QLShopMoHinh.exe.config
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\QLShopMoHinh.exe
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\QLShopMoHinh.pdb
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.csproj.CopyComplete
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.exe
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.pdb
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmDangNhap.resources
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmTrade.resources
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmStaffManager.resources
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmClientManager.resources
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmInventoryManager.resources
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmBillManager.resources
+C:\Users\ACER\Desktop\project shop mô hình\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmAddClient.resources
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\QLShopMoHinh.exe.config
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\QLShopMoHinh.exe
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\QLShopMoHinh.pdb
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmAddClient.resources
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmBillManager.resources
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmClientManager.resources
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmDangNhap.resources
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmInventoryManager.resources
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmMain.resources
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmStaffManager.resources
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.FrmTrade.resources
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.exe.licenses
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.csproj.CopyComplete
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.exe
+C:\Users\Admin\Downloads\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\QLShopMoHinh\obj\Debug\QLShopMoHinh.pdb
